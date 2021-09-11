@@ -1,9 +1,9 @@
 /*************************************
-*       JOGO BATALHAS DA LAPONIA	 *
-*              Jun 2021              *
-*          GABRIEL CLAUDINO          *
-*          LEONARDO TRINCHÃO         *
-* 			PEDRO DA MATTA           *
+*        JOGO BATALHAS DA LAPONIA	 *
+*                Jun 2021            *
+*           GABRIEL CLAUDINO         *
+*           LEONARDO TRINCHÃO       *
+*           PEDRO DA MATTA           *
 **************************************/
 #include <stdio.h>
 #include <stdlib.h>	
@@ -11,6 +11,14 @@
 #include <locale.h>
 #include "regras.h"
 #include "print_campo_de_batalha.h"
+
+int numSorteado1, numSorteado2;
+char player1[21]; 
+char player2[21];
+char guerreiro1, guerreiro2;
+char gsX, gsY;
+int bombas=0;
+
 #include "mercacoesPlayer1.h"
 #include "selecionar.h"
 #include "movimento.h"
@@ -30,7 +38,7 @@ int verificarParede(int *x, int *y){
 return 0;
 }
 
-void bomba(int x, int y){
+void bomba(int x, int y){ //Fun��o Recursiva: Chama ela mesma.
 	
 	campo_de_batalha[x][y] = ' '; 
 	
@@ -165,10 +173,10 @@ int main (){
 
 	printCampo(player1, player2, numSorteado1, numSorteado2);
 	
-//MARCAÇÃO DO PLAYER 1
+//MARCA��O DO PLAYER 1
 	mercacoesPlayer1(player1, player1, player2, 0, 5);
 	
-//MARCAÇÃO DO PLAYER 2
+//MARCA��O DO PLAYER 2
 	mercacoesPlayer1(player2, player1, player2, 6, 11);
 	
 // SELECIONAR O GUERREIRO & ATACAR OU MOVIMENTAR?
