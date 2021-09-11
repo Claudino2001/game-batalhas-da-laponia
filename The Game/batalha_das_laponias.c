@@ -1,9 +1,9 @@
 /*************************************
-*        JOGO BATALHAS DA LAPONIA	 *
+*        JOGO BATALHAS DA LAPONIA    *
 *                Jun 2021            *
-*           GABRIEL CLAUDINO         *
-*           LEONARDO TRINCHÃO       *
-*           PEDRO DA MATTA           *
+*            GABRIEL CLAUDINO        *
+*           LEONARDO TRINCHÃO        *
+*             PEDRO DA MATTA         *
 **************************************/
 #include <stdio.h>
 #include <stdlib.h>	
