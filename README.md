@@ -16,11 +16,10 @@
  
 
  ### Desenvolvedores:
+ 3. Pedro da Matta [Perfil GitHub](https://github.com/biembouash)
  1. Gabriel Claudino [Perfil GitHub](https://github.com/Claudino2001)
  2. Leonardo Trinchão
- 3. Pedro da Matta [Perfil GitHub](https://github.com/biembouash)
  4. Herbert Azevedo
- 
  
  
  **Obs:** A imagem disponibilizada possui virgulas separando as coordenadas. Entretanto, **não** as considere. Use um backspace no lugar.
