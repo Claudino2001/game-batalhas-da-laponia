@@ -16,9 +16,9 @@
  
 
  ### Desenvolvedores:
- 3. Pedro da Matta [Perfil GitHub](https://github.com/biembouash)
- 1. Gabriel Claudino [Perfil GitHub](https://github.com/Claudino2001)
- 2. Leonardo Trinchão
+ 1. Pedro da Matta [Perfil GitHub](https://github.com/biembouash)
+ 2. Gabriel Claudino [Perfil GitHub](https://github.com/Claudino2001)
+ 3. Leonardo Trinchão
  4. Herbert Azevedo
  
  
