@@ -1,13 +1,26 @@
 # Game Batalhas da Laponia
 
- Consiste basicamente é um jogo escrito na Linguagem C. 
-
- As regras estão disponíveis no próprio game.
-
- O jogo todo ocorre no terminal.
-
- Desenvolvido por mim e mais alguns amigos no primeiro semestre da faculdade.
+### Descrição:
+ Consiste basicamente em um jogo escrito na Linguagem C.
  
- O nome dos desenvolvedores encontra-se comentado na main.
+ Aplicamos os conceitos de Função, Biblioteca e Matriz.
+
+### Sobre o Jogo:
+ É semelhante ao chess, pois sua jogabilidade ocorre num tabuleiro e tem como objetivo derrotar o advesário.
  
- Obs: A imagem disponibilizada possui virgulas separando as coordenadas. Entretanto, não as considere. Use um backspace no lugar.
+ Existe um "rio" dividindo o campo e ganha quem derrotar todos os guerreios do adversário.
+ 
+ Todo a jogo ocorre na terminal.
+ 
+ As regras estão disponíveis no próprio game, na função `regras()`.
+ 
+
+ ### Desenvolvedores:
+ 1. Gabriel Claudino [Perfil GitHub](https://github.com/Claudino2001)
+ 2. Leonardo Trinchão
+ 3. Pedro da Matta [Perfil GitHub](https://github.com/biembouash)
+ 4. Herbert Azevedo
+ 
+ 
+ 
+ **Obs:** A imagem disponibilizada possui virgulas separando as coordenadas. Entretanto, **não** as considere. Use um backspace no lugar.
