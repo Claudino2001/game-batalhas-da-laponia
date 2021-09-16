@@ -19,7 +19,6 @@
  * Pedro da Matta [Perfil GitHub](https://github.com/biembouash)
  * Gabriel Claudino [Perfil GitHub](https://github.com/Claudino2001)
  * Leonardo Trinchão
- * Herbert Azevedo
  
  
  **Obs:** A imagem disponibilizada possui virgulas separando as coordenadas. Entretanto, **não** as considere. Use um backspace no lugar.
