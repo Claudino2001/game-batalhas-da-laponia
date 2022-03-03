@@ -10,7 +10,7 @@
  
  Existe um "rio" dividindo o campo e ganha quem derrotar todos os guerreios do adversário.
  
- Todo a jogo ocorre na terminal.
+ Todo o jogo ocorre no cmd.
  
  As regras estão disponíveis no próprio game, na função `regras()`.
  
@@ -18,7 +18,7 @@
  ### Desenvolvedores:
  * Pedro da Matta [Perfil GitHub](https://github.com/biembouash)
  * Gabriel Claudino [Perfil GitHub](https://github.com/Claudino2001)
- * Leonardo Trinchão
+ * Leonardo Trinchão [Perfil GitHub](https://github.com/leotrinchao)
  
  
  **Obs:** A imagem disponibilizada possui virgulas separando as coordenadas. Entretanto, **não** as considere. Use um backspace no lugar.
